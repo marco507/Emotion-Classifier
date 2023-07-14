@@ -1,2 +1,2 @@
 # Emotion-Classifier
-Facial Emotion Recognition based on the Fer2013 dataset and transfer learning with the VGG19 CNN.
+This repository contains the code for the emotion classification project described in this [article](https://bigdatatime.eu/emotion-detection-in-images/).
